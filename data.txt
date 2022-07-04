@@ -1,1 +1,3 @@
-Hello, world !
+Username: etiennebelledotcss;
+Age: 26;
+Favorite colour: Green;
